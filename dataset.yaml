@@ -1,0 +1,8 @@
+train: ./dataset/images/training/
+val: ./dataset/images/validation/
+
+# number of classes
+nc: 25
+
+# class names
+names: ["beans", "cake", "candy", "cereal", "chips", "chocolate", "coffee", "corn", "fish", "flour", "honey", "jam", "juice", "milk", "nuts", "oil", "pasta", "rice", "soda", "spices", "sugar", "tea", "tomato_sauce", "vinegar", "water"]
